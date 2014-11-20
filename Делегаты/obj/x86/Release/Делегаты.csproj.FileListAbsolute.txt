@@ -1,0 +1,5 @@
+C:\Users\Julia\Desktop\C#Projects\Делегаты\Делегаты\bin\Release\Делегаты.exe
+C:\Users\Julia\Desktop\C#Projects\Делегаты\Делегаты\bin\Release\Делегаты.pdb
+C:\Users\Julia\Desktop\C#Projects\Делегаты\Делегаты\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\C#Projects\Делегаты\Делегаты\obj\x86\Release\Делегаты.exe
+C:\Users\Julia\Desktop\C#Projects\Делегаты\Делегаты\obj\x86\Release\Делегаты.pdb
